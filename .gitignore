@@ -30,8 +30,6 @@ build/
 dist/
 *.egg-info/
 
-# Model files (optional - if you don’t want to push large models)
-*.pkl
 
 # Excel / data files (optional - remove if you want to track them)
 *.xlsx
