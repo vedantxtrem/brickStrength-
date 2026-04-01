@@ -1,0 +1,38 @@
+# Ignore virtual environments
+venv/
+.env/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Mac / Linux system files
+.DS_Store
+*.swp
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build / distribution files
+build/
+dist/
+*.egg-info/
+
+# Model files (optional - if you don’t want to push large models)
+*.pkl
+
+# Excel / data files (optional - remove if you want to track them)
+*.xlsx
+*.csv
